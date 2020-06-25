@@ -1,0 +1,10 @@
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\bin\Debug\UDPScannerDisplay.exe.config
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\bin\Debug\UDPScannerDisplay.exe
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\bin\Debug\UDPScannerDisplay.pdb
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\obj\Debug\UDPScannerDisplay.csprojAssemblyReference.cache
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\obj\Debug\UDPScannerDisplay.Properties.Resources.resources
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\obj\Debug\UDPScannerDisplay.csproj.GenerateResource.cache
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\obj\Debug\UDPScannerDisplay.csproj.CoreCompileInputs.cache
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\obj\Debug\UDPScannerDisplay.exe
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\obj\Debug\UDPScannerDisplay.pdb
+C:\Workspace\Dematic\DLLTest\UDPScannerDisplay\obj\Debug\UDPScannerDisplay.fghj.resources
